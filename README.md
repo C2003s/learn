@@ -40,7 +40,7 @@ int main(){
 printf("hahah");
 return 0;
 }
-'''
+```
 
 ##超链接
 [bilibili](https://www.bilibili.com,"点击进入B站")
